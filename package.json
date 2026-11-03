@@ -1,0 +1,9 @@
+{
+  "name": "vibra",
+  "version": "1.0.0",
+  "description": "Vibra - sesli sohbet, ekran paylaşımı ve dosya paylaşımı olan sohbet uygulaması (bağımlılıksız)",
+  "main": "server.js",
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
